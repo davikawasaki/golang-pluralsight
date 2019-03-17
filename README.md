@@ -1,2 +1,3 @@
-# golang-pluralsight
-Go snippets from Pluralsight courses.
+# Go Snippets - Pluralsight
+
+[WIP] Go snippets from Pluralsight courses.
